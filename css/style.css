@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.Fitness{
+    font-size: 60px;
+    color: brown;
+}
+img{
+    width: 50%;
+    
+}
+.main {
+    text-align: center;
+}
